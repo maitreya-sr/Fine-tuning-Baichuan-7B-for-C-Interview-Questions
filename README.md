@@ -41,3 +41,12 @@ This project develops an AI-assisted platform that simplifies text data annotati
                'layout': {'title': 'Daily Labeling Productivity'}
            }
        )
+
+## Test Plan
+1. **Data Splitting**:
+
+60% training
+
+20% validation
+
+20% held-out test
