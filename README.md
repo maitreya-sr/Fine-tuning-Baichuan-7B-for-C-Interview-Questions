@@ -1,5 +1,8 @@
 # Fine-tuning Baichuan-7B for C++ Interview Questions
 
+## video link
+https://youtu.be/3CdDrnwF8mg
+
 ## Project Description
 This project focuses on adapting the Baichuan-7B large language model for industry-specific applications, specifically in the domain of C++ interview questions. The goal is to improve the model's ability to generate accurate and professional responses to C++ technical queries through fine-tuning.
 
